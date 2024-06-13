@@ -1,0 +1,18 @@
+/*
+Theme Name: Plantilla Inicial
+Theme URI: https://github.com/gatroxm
+Author: Gustavo Adolfo Muñoz Reyes
+Author URI: https://github.com/gatroxm/
+Description: tema echo a la medida para diversas paginas web
+Tags: blog, one-column, custom-background, custom-colors, custom-logo, custom-menu, editor-style, featured-images, footer-widgets, full-width-template, rtl-language-support, sticky-post, theme-options, threaded-comments, translation-ready, block-styles, wide-blocks, accessibility-ready
+Version: 1.0
+Requires at least: 5.0
+Tested up to: 5.4
+Requires PHP: 7.0
+*/
+.subscribete{
+    background-color: #fcfcfc;
+    max-height: 500px;
+    padding-top: 120px;
+    padding-bottom: 100px;
+}
